@@ -1,5 +1,3 @@
-<img src="/20250301-DSC03936 High Quality.jpg" width="180" align="left" />
-
 # Philip Chen
 
 Hi, I'm Philip! Welcome! I'm currently studying Data Science (and minoring in Music) at UC San Diego. I'm passionate about solving impactful real-world problems with machine learning, tinkering with agents, and building meaningful applications. Also always looking to jam (🎸) with people and improve my music skills!
