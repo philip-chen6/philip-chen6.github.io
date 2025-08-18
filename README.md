@@ -6,7 +6,9 @@ If you'd like to contact me, you can reach me at **philipchen247@gmail.com**.
 
 ---
 
-## 🧪 Experience
+
+
+## Experience
 
 - **Undergraduate Research Assistant — Rose Lab, UC San Diego**  
   Conducting research on LLM steerability and mechanistic interpretability, exploring sparse autoencoder representations and steering vector composition to better understand language model behavior.
@@ -28,7 +30,7 @@ If you'd like to contact me, you can reach me at **philipchen247@gmail.com**.
 
 ---
 
-## ⚙️ Projects
+## Projects
 
 - **Clari.f.ai (NVIDIA AI Agent Hackathon)**  
   Multi-agent research assistant that parses academic papers, summarizes key insights, and generates animated educational videos using LangChain + NeMo Agent Toolkit.
@@ -44,7 +46,7 @@ If you'd like to contact me, you can reach me at **philipchen247@gmail.com**.
   
 ---
 
-## 🎯 Interests
+## Interests
 
 - **Tech** — LLM interpretability & AI safety research; agentic workflows & autonomous systems; building applications and ML tools that help people.
 - **Music** — Classically trained pianist (15+ yrs) and violinist (9+ yrs); currently exploring jazz guitar in UCSD’s jazz band, also playing rock/pop; picking up bass.
@@ -52,8 +54,8 @@ If you'd like to contact me, you can reach me at **philipchen247@gmail.com**.
 
 ---
 
-## 🌐 Links
+## Links
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/philip-chen-5284a2246)  
-- 💻 [GitHub](https://github.com/philip-chen6)  
-- ✉️ philipchen247@gmail.com, phc006@ucsd.edu
+- [LinkedIn](https://www.linkedin.com/in/philip-chen-5284a2246)  
+- [GitHub](https://github.com/philip-chen6)  
+- philipchen247@gmail.com, phc006@ucsd.edu
