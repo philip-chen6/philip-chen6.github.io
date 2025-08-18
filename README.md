@@ -1,4 +1,4 @@
-<img src="headshot.jpg" width="180" align="left" />
+<img src="/20250301-DSC03936 High Quality.jpg" width="180" align="left" />
 
 # Philip Chen
 
