@@ -11,13 +11,13 @@ If you'd like to contact me, you can reach me at **philipchen247@gmail.com**.
 ## Experience
 
 - **Undergraduate Research Assistant — Rose Lab, UC San Diego**  
-  Conducting research on LLM steerability and mechanistic interpretability, exploring sparse autoencoder representations and steering vector composition to better understand language model behavior.
+  Conducting research on LLM steerability and mechanistic interpretability, exploring sparse autoencoder representations and steering vector   composition to better understand language model behavior; submitted paper to Foundations of Reasoning in Language Models (FoRLM) workshop at NeurIPS   2025.
 
 - **Software Developer — Triton Software Engineering**  
   Full-stack developer for nonprofit web applications using the MERN stack, owning backend API development and frontend features while operating in agile, industry-style team settings.
   
 - **AI Research Fellow — Algoverse**  
-  Built a deep-learning pipeline for surgical phase detection using a 3D CNN on high-dimensional video data; collaborated with hospitals and published an abstract at the American College of Surgeons Clinical Congress.
+  Built a deep-learning pipeline for surgical phase detection using a 3D CNN on high-dimensional video data; collaborated with hospitals and submitted an abstract accepted at the American College of Surgeons Clinical Congress.
 
 - **Student Researcher — Computer Science and Engineering Society, UC San Diego**  
   Collaborating on Musescore+, a research project developing deep learning technologies for musicians, including automatic arrangement, sheet music generation, and transpositions.
