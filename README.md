@@ -11,7 +11,7 @@ If you'd like to contact me, you can reach me at **philipchen247@gmail.com**.
 ## Experience
 
 - **Undergraduate Research Assistant — Rose Lab, UC San Diego**  
-  Conducting research on LLM steerability and mechanistic interpretability, exploring sparse autoencoder representations and steering vector   composition to better understand language model behavior; submitted paper to Foundations of Reasoning in Language Models (FoRLM) workshop at NeurIPS   2025.
+  Conducting research on LLM steerability and reasoning, exploring steering vector composition and state of the art methods to better understand language model behavior; submitted paper accepted to Foundations of Reasoning in Language Models (FoRLM) workshop at NeurIPS 2025.
 
 - **Software Developer — Triton Software Engineering**  
   Full-stack developer for nonprofit web applications using the MERN stack, owning backend API development and frontend features while operating in agile, industry-style team settings.
