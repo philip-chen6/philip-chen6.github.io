@@ -1,6 +1,6 @@
 # Philip Chen
 
-Hi, I'm Philip! Welcome! I'm currently studying Data Science (and minoring in Music) at UC San Diego. I'm passionate about solving impactful real-world problems with machine learning, tinkering with agents, and building meaningful applications. Also always looking to jam (🎸) with people and improve my music skills!
+Hi, I'm Philip! Welcome! I'm currently studying Data Science (and minoring in Math and Music) at UC San Diego. I'm passionate about solving impactful real-world problems with machine learning, tinkering with agents, and building meaningful applications. Also always looking to jam (🎸) with people and improve my music skills!
 
 If you'd like to contact me, you can reach me at **philipchen247@gmail.com**.
 
