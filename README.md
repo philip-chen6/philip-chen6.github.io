@@ -45,9 +45,11 @@ If you'd like to contact me, you can reach me at **philipchen247@gmail.com**.
   
 - **Clari.f.ai (NVIDIA AI Agent Hackathon)**  
   Multi-agent research assistant that parses academic papers, summarizes key insights, and generates animated educational videos using LangChain + NeMo Agent Toolkit.
-
+  [GitHub](https://github.com/qtzx06/clarifai)
+  
 - **FLASHcard (Hackathon Project)**  
   Browser extension that uses NLP to convert web articles into focused flashcards and exports them directly to Anki.
+  [GitHub](https://github.com/westonz7042/diamondhacks2025)
 
 - **Anomaly Detection Machine Learning (NSF ML Hackathon)**  
   Designed a TensorFlow-based transformer autoencoder with variational autoencoders and positional encoding to detect anomalies in gravitational wave telemetry data.
