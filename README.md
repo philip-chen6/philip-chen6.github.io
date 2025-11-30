@@ -45,6 +45,7 @@ If you'd like to contact me, you can reach me at **philipchen247@gmail.com**.
   
 - **Clari.f.ai (NVIDIA AI Agent Hackathon)**  
   Multi-agent research assistant that parses academic papers, summarizes key insights, and generates animated educational videos using LangChain + NeMo Agent Toolkit.
+  [Website](https://clarifai.stephenhung.me/)
   [GitHub](https://github.com/qtzx06/clarifai)
   
 - **FLASHcard (Hackathon Project)**  
